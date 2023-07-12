@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Section One */
+
+.section-one {
+    background-color: #1F2937;
+    display: flex;
+    width: 100%;
+}
+
+.section-one-header {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    gap: 10%;
+}
+
+.section-one-img {
+    display: flex;
+}
+
+.section-one-header-logo {
+    display: flex;
+}
+
+.section-one-ul {
+    display: flex;
+    justify-content: space-around
+}
+
+/* Section Two */
